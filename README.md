@@ -13,7 +13,7 @@
 
 ## Mục lục
 
-1. [Tổng quan](#overview)
+1. [Tổng quan](#tổng_quan)
 2. [Đề bài thiết kế](#đề-bài-thiết-kế)
 3. [Bảng đặc tính kỹ thuật](#bảng-đặc-tính-kỹ-thuật)
 4. [Thông số bánh răng dẫn](#thông-số-bánh-răng-dẫn)
@@ -30,19 +30,9 @@
 Đồ án môn học **Truyền động cơ khí** với đề bài **Thiết kế hệ thống thùng trộn**, thực hiện tại Trường Đại học Sư phạm Kỹ thuật TP.HCM, Khoa Cơ khí Chế tạo máy, 
 
 Nội dung đồ án bao gồm tính toán và thiết kế **hộp giảm tốc một cấp bánh trụ răng nghiêng**, dùng để giảm tốc độ và tăng momen xoắn từ động cơ truyền tới trục công tác của thùng trộn. Bộ hồ sơ gồm bản vẽ lắp toàn bộ hộp giảm tốc, bản vẽ chế tạo chi tiết trục dẫn và bánh răng dẫn, cùng file CAD gốc để tham khảo/chỉnh sửa.
-<!--
-Images/gear_drawing.png
-
-![Gear Drawing](Images/gear_drawing.png)
--->
-### Tính năng
-
-- Hộp giảm tốc một cấp, bánh trụ răng nghiêng, quay một chiều
-- Bôi trơn bằng dầu, có que thăm dầu và nút tháo dầu
-- Ổ lăn SKF (6012 – trục dẫn, 6208 – trục bị dẫn)
-- Bản vẽ chế tạo đầy đủ dung sai, độ nhám, yêu cầu nhiệt luyện
-
----
+![Hinh Chieu Dung](Images/hinhchieudung.png)
+![Hinh Chieu Bang](Images/hinhchieubang.png)
+![Hinh Chieu Canh](Images/hinhchieucanh.png)
 
 ## Đề bài thiết kế
 
@@ -76,7 +66,7 @@ Images/gear_drawing.png
 | Hệ số dịch chỉnh | x | 0 |
 | Đường kính vòng chia | d | 78 |
 | Góc nghiêng răng | β | 13.83° |
-| Cấp chính xác | – | TCVN 9 |
+| Cấp chính xác | – | 9 |
 | Vật liệu | – | Thép C45, tôi cải thiện HB255 |
 
 ---
