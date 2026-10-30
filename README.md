@@ -5,17 +5,15 @@
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-2018--2020-red)](https://www.autodesk.com/products/autocad)
 [![Status](https://img.shields.io/badge/status-completed-brightgreen)]()
 
-### Nhóm thực hiện
-
-- **Huỳnh Võ Phúc Lộc** – 22146344
+**SVTH:** Huỳnh Võ Phúc Lộc – 22146344
 
 **GVHD:** Nguyễn Đức Tôn
 
 ---
 
-## Table of Contents
+## Mục lục
 
-1. [Overview](#overview)
+1. [Tổng quan](#overview)
 2. [Đề bài thiết kế](#đề-bài-thiết-kế)
 3. [Bảng đặc tính kỹ thuật](#bảng-đặc-tính-kỹ-thuật)
 4. [Thông số bánh răng dẫn](#thông-số-bánh-răng-dẫn)
@@ -23,18 +21,21 @@
 6. [Danh sách bản vẽ](#danh-sách-bản-vẽ)
 7. [Phần mềm sử dụng](#phần-mềm-sử-dụng)
 8. [Hướng dẫn mở bản vẽ](#hướng-dẫn-mở-bản-vẽ)
-9. [Yêu cầu kỹ thuật](#yêu-cầu-kỹ-thuật)
-10. [Author](#author)
+9. [Author](#author)
 
 ---
 
-## Overview
+## Tổng quan
 
-Đồ án môn học **Truyền động cơ khí** với đề bài **Thiết kế hệ thống thùng trộn**, thực hiện tại Trường Đại học Sư phạm Kỹ thuật TP.HCM, Khoa Cơ khí Chế tạo máy, lớp 221461.
+Đồ án môn học **Truyền động cơ khí** với đề bài **Thiết kế hệ thống thùng trộn**, thực hiện tại Trường Đại học Sư phạm Kỹ thuật TP.HCM, Khoa Cơ khí Chế tạo máy, 
 
 Nội dung đồ án bao gồm tính toán và thiết kế **hộp giảm tốc một cấp bánh trụ răng nghiêng**, dùng để giảm tốc độ và tăng momen xoắn từ động cơ truyền tới trục công tác của thùng trộn. Bộ hồ sơ gồm bản vẽ lắp toàn bộ hộp giảm tốc, bản vẽ chế tạo chi tiết trục dẫn và bánh răng dẫn, cùng file CAD gốc để tham khảo/chỉnh sửa.
+<!--
+Images/gear_drawing.png
 
-### Features
+![Gear Drawing](Images/gear_drawing.png)
+-->
+### Tính năng
 
 - Hộp giảm tốc một cấp, bánh trụ răng nghiêng, quay một chiều
 - Bôi trơn bằng dầu, có que thăm dầu và nút tháo dầu
