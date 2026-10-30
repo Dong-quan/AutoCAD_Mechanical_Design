@@ -5,7 +5,7 @@
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-2018--2024-red)](https://www.autodesk.com/products/autocad)
 [![Status](https://img.shields.io/badge/status-completed-brightgreen)]()
 
-**SVTH:** Huỳnh Võ Phúc Lộc – 22146344
+**SVTH:** Huỳnh Võ Phúc Lộc
 
 **GVHD:** Nguyễn Đức Tôn
 
@@ -137,7 +137,5 @@ Mở trực tiếp các file trong `Drawings/PDF/` bằng trình đọc PDF bấ
 
 ## Author
 
-- **Huỳnh Võ Phúc Lộc** – 22146344
-– Khoa Cơ khí Chế tạo máy – Trường Đại học Sư phạm Kỹ thuật TP.HCM
-- GVHD: Nguyễn Đức Tôn
+- **Huynh Vo Phuc Loc**
 - GitHub: [Dong-quan](https://github.com/Dong-quan)
