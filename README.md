@@ -74,17 +74,14 @@ Nội dung đồ án bao gồm tính toán và thiết kế **hộp giảm tốc
 ## Cấu trúc thư mục
 
 ```
-MixingTank_GearboxDesign/
-├── README.md
-└── Drawings/
-    ├── PDF/
-    │   ├── BanVeLap_A0.pdf                 # Bản vẽ lắp hộp giảm tốc, khổ A0
-    │   ├── ChiTiet_BanhRangDan_A3.pdf       # Bản vẽ chế tạo bánh răng dẫn, khổ A3
-    │   └── ChiTiet_TrucDan_A3.pdf           # Bản vẽ chế tạo trục dẫn, khổ A3
-    ├── CAD/
-    │   └── BanVeGoc.dwg                      # File AutoCAD gốc (bản vẽ lắp + bánh răng + trục)
-    └── Templates/
-        └── Template_KhungBanVe.dwt           # Template khung tên A0 → A4 dùng để vẽ
+Mixing Tank Gearbox Design/
+├── Images/
+├── 12-D6-A0H-BVL.pdf             # Bản vẽ lắp hộp giảm tốc, khổ A0
+├── 12-D6-A3H-BANHRANG1.pdf       # Bản vẽ chế tạo bánh răng dẫn, khổ A3
+├── 12-D6-A3H-TRUC1.pdf           # Bản vẽ chế tạo trục dẫn, khổ A3
+├── 12-D6.dwg                     # File AutoCAD gốc (bản vẽ lắp + bánh răng + trục)
+├── README.md                     # File mô tả dự án
+└── ___ME(DA.TKM)___.dwt          # Template khung tên A0 -> A4 dùng để vẽ
 ```
 
 ---
