@@ -1,6 +1,5 @@
 # Mixing Tank Gearbox Design
 
-**Thiết kế hộp giảm tốc một cấp bánh trụ răng nghiêng cho hệ thống truyền động thùng trộn**
 
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-2018--2024-red)](https://www.autodesk.com/products/autocad)
 [![Status](https://img.shields.io/badge/status-completed-brightgreen)]()
