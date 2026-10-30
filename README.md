@@ -4,9 +4,9 @@
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-2018--2024-red)](https://www.autodesk.com/products/autocad)
 [![Status](https://img.shields.io/badge/status-completed-brightgreen)]()
 
-**SVTH:** Huỳnh Võ Phúc Lộc
+**SVTH:** Huynh Vo Phuc Loc
 
-**GVHD:** Nguyễn Đức Tôn
+**GVHD:** ThS. Nguyen Duc Ton
 
 ---
 
