@@ -2,7 +2,7 @@
 
 **Thiết kế hộp giảm tốc một cấp bánh trụ răng nghiêng cho hệ thống truyền động thùng trộn**
 
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-2018--2020-red)](https://www.autodesk.com/products/autocad)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-2018--2024-red)](https://www.autodesk.com/products/autocad)
 [![Status](https://img.shields.io/badge/status-completed-brightgreen)]()
 
 **SVTH:** Huỳnh Võ Phúc Lộc – 22146344
@@ -103,8 +103,8 @@ MixingTank_GearboxDesign/
 
 ## Phần mềm sử dụng
 
-- **AutoCAD 2018/2019/2020** – mở file `Template_KhungBanVe.dwt`
-- **AutoCAD 2007/2008/2009 trở lên** – mở file `BanVeGoc.dwg`
+- **AutoCAD 2020 trở lên** – mở file `Template_KhungBanVe.dwt`
+- **AutoCAD 2007 trở lên** – mở file `BanVeGoc.dwg`
 - Trình đọc PDF bất kỳ để xem các bản vẽ đã xuất
 
 ---
@@ -118,7 +118,7 @@ Mở trực tiếp các file trong `Drawings/PDF/` bằng trình đọc PDF bấ
 ### Chỉnh sửa bản vẽ gốc
 
 ```
-1. Cài đặt AutoCAD (bản 2009 trở lên để mở BanVeGoc.dwg)
+1. Cài đặt AutoCAD (bản 2007 trở lên để mở BanVeGoc.dwg)
 2. Mở file Drawings/CAD/BanVeGoc.dwg
 3. Các bản vẽ (lắp, bánh răng, trục) nằm trên các Layout riêng biệt
 4. Nếu cần vẽ bản vẽ mới đúng chuẩn khung tên của trường,
@@ -141,6 +141,6 @@ Mở trực tiếp các file trong `Drawings/PDF/` bằng trình đọc PDF bấ
 ## Author
 
 - **Huỳnh Võ Phúc Lộc** – 22146344
-- Lớp: 221461 – Khoa Cơ khí Chế tạo máy – Trường Đại học Sư phạm Kỹ thuật TP.HCM
+– Khoa Cơ khí Chế tạo máy – Trường Đại học Sư phạm Kỹ thuật TP.HCM
 - GVHD: Nguyễn Đức Tôn
 - GitHub: [Dong-quan](https://github.com/Dong-quan)
